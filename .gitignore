@@ -10,3 +10,4 @@ data
 .ipython/
 .jupyter/
 .local/
+mbox_key.txt

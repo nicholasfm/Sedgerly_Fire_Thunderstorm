@@ -1,5 +1,6 @@
 # Sedgerly_Fire_Thunderstorm
-## Code for PhD Thesis chapter (6), manuscript currently in preparation: McCarthy, N., McGowan, H., Guyot, A., &amp; Dowdy, A. (In Preparation). Crown Fire Initiation of Thunderstorms. Ben Twomey assisted with the modelling using Phoenix and SABRE through Queensland Fire and Emergency Services.  Input from Prof. Hamish McGowan, Dr Adrien Guyot and Dr Andrew Dowdy. In preparation for submission.
+## Code for PhD Thesis Chapter Six
+Manuscript currently in preparation: McCarthy, N., McGowan, H., Guyot, A., &amp; Dowdy, A. (In Preparation). Crown Fire Initiation of Thunderstorms. Ben Twomey assisted with the modelling using Phoenix and SABRE through Queensland Fire and Emergency Services.  Input from Prof. Hamish McGowan, Dr Adrien Guyot and Dr Andrew Dowdy. In preparation for submission.
 
 ### From Chapter Introduction:
 The Bushfire Convective Plume Experiment (BCPE) field campaign targeted observations of fire-driven thunderstorms, and aimed to couple these observations with quantitative observations of fire behaviour (McCarthy et al., 2018). Following the successful BCPE observations of the 2015/2016 bushfire season, the BCPE field campaign undertook a re-focussed strategy of data collection during the 2016/2017 bushfire season. The focus of the radar data collection was on purely observing fire-driven thunderstorms with a volumetric scan strategy, and analysing the lifecycle with observed pyrogenic and atmospheric drivers. 

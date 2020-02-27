@@ -1,4 +1,4 @@
-# Sedgerly_Fire_Thunderstorm
+# Study in the Crown Fire Initiation of Thunderstorms
 ## Code for PhD Thesis Chapter Six
 Manuscript currently in preparation: McCarthy, N., McGowan, H., Guyot, A., &amp; Dowdy, A. (In Preparation). Crown Fire Initiation of Thunderstorms. Ben Twomey assisted with the modelling using Phoenix and SABRE through Queensland Fire and Emergency Services.  Input from Prof. Hamish McGowan, Dr Adrien Guyot and Dr Andrew Dowdy. In preparation for submission.
 
